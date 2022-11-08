@@ -10,12 +10,12 @@
 
 ### Start server using:
 
-####Client
+#### Client
 
 `$ npm start`
 (Server starts at localhost 3000)
 
-####Server
+#### Server
 
 `$ npm run dev`
 (Server starts at localhost 4000)
